@@ -1,2 +1,2 @@
-# Public
-Teh mo enh
+## HOW TO TEST IF THE REPOSITORY IS LINKED
+*P*
