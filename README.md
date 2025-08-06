@@ -10,4 +10,8 @@ The design of the orignal app intended to allow user to share stories and images
 **Non-Functional**
 1. The perfomance should be load quickly in 1 second or under
 2. The application should be easy to use and cater towards user experience
-3. The website should reliably respond to user actions
+3. The website should reliably respond to user actions    
+
+## Initial Design
+![YOU CAN'T CODE DUMBASS](https://www.figma.com/design/NQYdWKa71zNTidwCETGUPo/ttrn?node-id=0-1&p=f&t=1UxvbuhYcyf12qjv-0   "livli_hub")
+*T*he initial visuals of the website are important so I choose a stark gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The code will also push to use 
