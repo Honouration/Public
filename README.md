@@ -14,4 +14,5 @@ The design of the orignal app intended to allow user to share stories and images
 
 ## Initial Design
 ![Liveli Hub](liveli_hub.png "Liveli Hub")
-*T*he initial visuals of the website are important so I choose a stark gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The code will also push to use 
+
+The initial visuals of the website are important so I choose a stark gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The code will also push to use 
