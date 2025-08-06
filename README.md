@@ -13,5 +13,5 @@ The design of the orignal app intended to allow user to share stories and images
 3. The website should reliably respond to user actions    
 
 ## Initial Design
-![YOU CAN'T CODE #######](liveli_hub.png"liveli_hub")
+![YOU CAN'T CODE #######](liveli_hub.png "liveli_hub")
 *T*he initial visuals of the website are important so I choose a stark gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The code will also push to use 
