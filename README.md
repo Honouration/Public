@@ -1,3 +1,2 @@
 # Public
-yenom s'knab evah i
-dnourg eht htaeneb neddih s'ti
+Images and Stuff, if seen then broke.
