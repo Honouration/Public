@@ -25,7 +25,7 @@ The initial visuals of the website are important so I choose a fluid gold and bl
 **Recommended Posts :**
 Once someone decised to begin browsing, they are brought to a site with the top recommended posts either tailored to your account if you're are logged in or general posts most people have seen. The design makes the most recommended post big with a apt description underneath it to grab the users attention with a clip of the full post. Beneath will be less popular posts with less space dedicated to each one with the last row being smaller posts. 
 
-![Liveli Login](liveli_login.png "Liveli Login")
+![Liveli Login](Liveli_Login.png "Liveli Login")
 
 **Login :**
 gfjzQWUIEGVB
