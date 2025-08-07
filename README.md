@@ -17,7 +17,7 @@ The design of the orignal app intended to allow user to share stories and images
 ![Liveli Hub](liveli_hub.png "Liveli Hub")
 
 **Hub :**
-The initial visuals of the website are important so I choose a fluid gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The point of this layout is to cater to the user with everything they would want to browse and use on our website easily accessible from the moment they load in.
+The initial visuals of the website are important so I choose a fluid gold and white colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The point of this layout is to cater to the user with everything they would want to browse and use on our website easily accessible from the moment they load in.
 
 
 ![Liveli RecPost](liveli_reccommendedposts.png "Liveli RecPost")
@@ -25,7 +25,7 @@ The initial visuals of the website are important so I choose a fluid gold and bl
 **Recommended Posts :**
 Once someone decised to begin browsing, they are brought to a site with the top recommended posts either tailored to your account if you're are logged in or general posts most people have seen. The design makes the most recommended post big with a apt description underneath it to grab the users attention with a clip of the full post. Beneath will be less popular posts with less space dedicated to each one with the last row being smaller posts. 
 
-![Liveli Login](Liveli_Login.png "Liveli Login")
+![Liveli Profile](Liveli_Login.png "Liveli Profile")
 
-**Login :**
-gfjzQWUIEGVB
+**Profile :**
+Assuming the user is logged in, the profile will appear in which the user can edit their bio, username and additional detail someone might want to know about the user such as experience, year group and other academic achievements. This is to make the user more attached/invested into a site whilst allowing the user to express themselves to others and make connections with others more easily. The design doesn't affect much except carrying the same motif of calm, creativity evoking colour scheme and the placement of the more important to least important profile additions ranging for the top to the bottom for convience.
