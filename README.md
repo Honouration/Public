@@ -12,7 +12,34 @@ The design of the orignal app intended to allow user to share stories and images
 2. The application should be easy to use and cater towards user experience
 3. The website should reliably respond to user actions    
 
-## Initial Design 
+
+## Initial Design : Sketch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Initial Design : Figma
 
 ![Liveli Hub](liveli_hub.png "Liveli Hub")
 
