@@ -15,11 +15,11 @@ The design of the orignal app intended to allow user to share stories and images
 
 ## Initial Design : Sketch
 
-![Liveli Sketch of Hub/Login](liveli_sketch1.png "Liveli Sketch of Hub/Login")
+![Liveli Sketch of Hub/Login](liveli_sketch1.jpeg "Liveli Sketch of Hub/Login")
 
 This sketch demonstrates the original ideas of security and making all functions easily accesible from the get go.
 
-![Liveli Sketch of Posts](liveli_sketch2.png "Liveli Sketch of posts")
+![Liveli Sketch of Posts](liveli_sketch2.jpeg "Liveli Sketch of posts")
 
 This sketch shows big and small posts repeating to comb through the users intrests and uses the design to evoke a certain pattern when browsing.
 
