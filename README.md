@@ -12,7 +12,16 @@ The design of the orignal app intended to allow user to share stories and images
 2. The application should be easy to use and cater towards user experience
 3. The website should reliably respond to user actions    
 
-## Initial Design
+## Initial Design 
+**Hub**
 ![Liveli Hub](liveli_hub.png "Liveli Hub")
 
-The initial visuals of the website are important so I choose a stark gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The code will also push to use 
+The initial visuals of the website are important so I choose a fluid gold and blue colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The point of this layout is to cater to the user with everything they would want to browse and use on our website easily accessible from the moment they load in.
+
+**Recommended Posts**
+![Liveli Hub](liveli_recommendedposts.png "Liveli Hub")
+
+Once someone decised to begin browsing, they are brought to a site with the top recommended posts either tailored to your account if you're are logged in or general posts most people have seen. The design makes the most recommended post big with a apt description underneath it to grab the users attention with a clip of the full post. Beneath will be less popular posts with less space dedicated to each one with the last row being smaller posts. 
+
+**Login**
+![Liveli Hub](liveli_login.png "Liveli Hub")
