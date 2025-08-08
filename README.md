@@ -17,12 +17,12 @@ The design of the orignal app intended to allow user to share stories and images
 
 ![Liveli Sketch of Hub/Login](liveli_sketch1.jpeg "Liveli Sketch of Hub/Login")
 
-This sketch demonstrates the original ideas of security and making all functions easily accesible from the get go. The login/sign up process uses a fluid 
+This sketch demonstrates the original ideas of security and making all functions easily accesible from the get go. The login/sign up process should be a fluid process asking the most relevant information relating to security. The system would also use 2 factor authentication to strengthen security and allow account recovery. Either way through signing up or logging in, you will get brought to a window design to allow the web page to load before entering the hub. This design will be simple and have few images as the user most likely won't spend most of their time on the login menu, instead in the hub. The hub design is changed to have a moving banner and drop down menu for the communities, friends and profile edits. this version of recommended post will have a limited few post compare to the actual page and clicking anywhere within the recommended posts section will bring you to the page/post you were looking at. Clicking the "make a post function" brings you to the recommended post section with the system for creating a post -refer to 2nd sketch- open. This design in purely based on having the user move onto the post instead of having them browse communities or potential friends first to provide the purpose of this website as quick as possible. 
 
 
 ![Liveli Sketch of Posts](liveli_sketch2.jpeg "Liveli Sketch of posts")
 
-This sketch shows big and small posts repeating to comb through the users intrests and uses the design to evoke a certain pattern when browsing. This design includes the process to upload a post, requiring a logged in account to post. The posting system would work similar to the design used in gmail and can be linked to a certain community by adding a tag in the title e.g #STUDY. 
+This sketch shows big and small posts repeating to comb through the users intrests and uses the design to evoke a certain pattern when browsing. This design includes the process to upload a post, requiring a logged in account to post. The posting system would work similar to the design used in gmail and can be linked to a certain community by adding a tag in the title e.g #STUDY. This design is supposed to emphasis the more relevant posts whilst not excluding the smaller topics. The moving creation post system is so you can read and refer to other posts with precise detail whilst creating the account, leading to a easier user experience.
 
 ## Initial Design : Figma
 
