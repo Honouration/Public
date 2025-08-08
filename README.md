@@ -17,18 +17,19 @@ The design of the orignal app intended to allow user to share stories and images
 
 ![Liveli Sketch of Hub/Login](liveli_sketch1.jpeg "Liveli Sketch of Hub/Login")
 
-This sketch demonstrates the original ideas of security and making all functions easily accesible from the get go.
+This sketch demonstrates the original ideas of security and making all functions easily accesible from the get go. The login/sign up process uses a fluid 
+
 
 ![Liveli Sketch of Posts](liveli_sketch2.jpeg "Liveli Sketch of posts")
 
-This sketch shows big and small posts repeating to comb through the users intrests and uses the design to evoke a certain pattern when browsing.
+This sketch shows big and small posts repeating to comb through the users intrests and uses the design to evoke a certain pattern when browsing. This design includes the process to upload a post, requiring a logged in account to post. The posting system would work similar to the design used in gmail and can be linked to a certain community by adding a tag in the title e.g #STUDY. 
 
 ## Initial Design : Figma
 
 ![Liveli Hub](liveli_hub.png "Liveli Hub")
 
 **Hub :**
-The initial visuals of the website are important so I choose a fluid gold and white colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The point of this layout is to cater to the user with everything they would want to browse and use on our website easily accessible from the moment they load in.
+The initial visuals of the website are important so I choose a fluid yellow, orange and white colour scheme intended to evoke creativity with functions like login, friends and the main function, review post all in clear view when entering the site. The point of this layout is to cater to the user with everything they would want to browse and use on our website easily accessible from the moment they load in.
 
 
 ![Liveli RecPost](liveli_reccommendedposts.png "Liveli RecPost")
@@ -40,3 +41,7 @@ Once someone decised to begin browsing, they are brought to a site with the top 
 
 **Profile :**
 Assuming the user is logged in, the profile will appear in which the user can edit their bio, username and additional detail someone might want to know about the user such as experience, year group and other academic achievements. This is to make the user more attached/invested into a site whilst allowing the user to express themselves to others and make connections with others more easily. The design doesn't affect much except carrying the same motif of calm, creativity evoking colour scheme and the placement of the more important to least important profile additions ranging for the top to the bottom for convience.
+
+| Design Choice | Choice/Reasoning |
+|---------------|------------------|
+|Colour Palette| I chose a Light Yellow, Orange and white colour scheme as it evokes calm and creative emotions to assist people in imagining situations in which they can relate to the post they readand can be commonly associated with purity, meant to reflect the nature of young children strive for education.| Typography | I chose a relativly big, dark font Raleway Bold for Liveli due to its easy to read nature and a big siaze for late night scrolls when light is heavily diminished, ensureing the reader can still leisurely interpret the words. | Image/ Icon Choice | My image is Liveli in big bold letters with phones utlising the liveli website on their phone. This design is to show how the user will be alongside other users in a connected communications platform and the logo is a grey and silver design meant to replicate a guild insignia. This is to create familiarity between users and help them understand that they're communicating with people having similar problems during their studies.
