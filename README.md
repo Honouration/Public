@@ -59,10 +59,20 @@ Assuming the user is logged in, the profile will appear in which the user can ed
 |-------------|----------------------|
 |Test Case ID| TC0001|
 |Test Case Name| Creating a Profile|
-|Preconditions| Have an Email|
+|Preconditions| Have a Valid Email|
 |Test Steps|Enter Valid username and password, Enter Email, Enter the Emailed code|
 |Expected Result| The Database should save the info and record login info for future use|
 |Actual Result| N/A |
 |Pass/Fail| N/A |
 |Priority| High |
 2. 
+|Test Function| Reasoning and Results|
+|-------------|----------------------|
+|Test Case ID| TC0002|
+|Test Case Name| Entering a username that already exists|
+|Preconditions| An Account must already exist that has the same username as the inputted name|
+|Test Steps|Enter the username of already existing account|
+|Expected Result| The Database should reject the username and re prompt the user for a name|
+|Actual Result| N/A |
+|Pass/Fail| N/A |
+|Priority| High |
