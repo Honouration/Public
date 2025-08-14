@@ -50,7 +50,7 @@ Assuming the user is logged in, the profile will appear in which the user can ed
 
 ## Profile Creation Algorithm
 
-![Profile](CPT_Algorithm.png "Profile")
+![Profile](C_Algorithm.png "Profile")
 
 **Test Cases**
 
