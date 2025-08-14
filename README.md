@@ -55,4 +55,14 @@ Assuming the user is logged in, the profile will appear in which the user can ed
 **Test Cases**
 
 1. 
+|Test Function| Reasoning and Results|
+|-------------|----------------------|
+|Test Case ID| TC0001|
+|Test Case Name| Creating a Profile|
+|Preconditions| Have an Email|
+|Test Steps|Enter Valid username and password, Enter Email, Enter the Emailed code|
+|Expected Result| The Database should save the info and record login info for future use|
+|Actual Result| N/A |
+|Pass/Fail| N/A |
+|Priority| High |
 2. 
