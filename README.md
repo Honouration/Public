@@ -79,9 +79,11 @@ Assuming the user is logged in, the profile will appear in which the user can ed
 
 ## SQL Table and Data Generation
 
-Links go Here:
+I Made 4 tables linking to Users, Post, Friends and Communities
 
-Queries
+Link go here:
+
+**Queries**
 
 1. Count the amount of Post in a Community
 ```sql
