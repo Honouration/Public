@@ -76,3 +76,16 @@ Assuming the user is logged in, the profile will appear in which the user can ed
 |Actual Result| N/A |
 |Pass/Fail| N/A |
 |Priority| High |
+
+## SQL Table and Data Generation
+
+Links go Here:
+
+Queries
+
+1. 
+sql
+SELECT c.CommunityName, COUNT(p.PostID) AS TotalPosts
+FROM Communities c
+LEFT JOIN Posts p ON c.CommunityID = p.CommunityID
+GROUP BY c.CommunityName;
