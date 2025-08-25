@@ -83,10 +83,49 @@ Links go Here:
 
 Queries
 
-1. 
+1. Count the amount of Post in a Community
 ```sql
 SELECT c.CommunityName, COUNT(p.PostID) AS TotalPosts
 FROM Communities c
 LEFT JOIN Posts p ON c.CommunityID = p.CommunityID
 GROUP BY c.CommunityName;
+```
+2. List all friends of a user
+```sql
+SELECT u.Username AS FriendName
+FROM Friends f
+JOIN Users u ON f.FriendUserID = u.UserID
+WHERE f.UserID = 1;   
+```
+3. Find all post by a specific user
+```sql
+SELECT p.Title, p.Content, p.CreatedAt
+FROM Posts p
+JOIN Users u ON p.UserID = u.UserID
+WHERE u.Username = 'JamesLR';
+```
+4. Find User who haven't posted
+```sql
+SELECT u.Username
+FROM Users u
+LEFT JOIN Posts p ON u.UserID = p.UserID
+WHERE p.PostID IS NULL;
+```
+5. Recommended Posts/ Popular Communities
+```sql
+SELECT p.Title, p.Content, u.Username, c.CommunityName
+FROM Posts p
+JOIN Users u ON p.UserID = u.UserID
+JOIN Communities c ON p.CommunityID = c.CommunityID
+WHERE c.CommunityName IN (
+    SELECT CommunityName
+    FROM Communities
+    WHERE CommunityID IN (
+        SELECT CommunityID
+        FROM Posts
+        GROUP BY CommunityID
+        ORDER BY COUNT(PostID) DESC
+        LIMIT 1
+    )
+);
 ```
