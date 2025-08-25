@@ -104,7 +104,7 @@ FROM Posts p
 JOIN Users u ON p.UserID = u.UserID
 WHERE u.Username = 'JamesLR';
 ```
-4. Find User who haven't posted
+4. Find Users who haven't posted
 ```sql
 SELECT u.Username
 FROM Users u
