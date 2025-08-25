@@ -84,12 +84,9 @@ Links go Here:
 Queries
 
 1. 
-sql
-
+```sql
 SELECT c.CommunityName, COUNT(p.PostID) AS TotalPosts
-
 FROM Communities c
-
 LEFT JOIN Posts p ON c.CommunityID = p.CommunityID
-
 GROUP BY c.CommunityName;
+```
