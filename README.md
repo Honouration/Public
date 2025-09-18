@@ -131,3 +131,9 @@ WHERE c.CommunityName IN (
     )
 );
 ```
+## Webpage Creation
+
+Using Html and Css, website construction began with touch and coding the following:
+ Static/Css/Style.css to add detail and design to my webstie to match the intended colour scheme devised weeks ago.
+ Templates/Partial/Menu.html to edit the design and title of the webpage as liveli and using the following image to represent the site. This will stay consitent throughout the webpage journey.
+ ![Liveli Icon](liveli_icon.png "Icon")
