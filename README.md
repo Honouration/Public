@@ -145,6 +145,8 @@ Once all files and directories were created, I began by following the example co
 
 ![Equation](Equations.png "Icon")
 ![File 1](File1.jpg "Icon")
+
+
 Issues caused by this is that the cards would frequently overlap, causing the information on post to be blocked as well as the button the open it. 
 ![card overlap](card_overlap.png "Card overlap")
 This
