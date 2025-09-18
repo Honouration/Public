@@ -142,8 +142,9 @@ Using Html and Css, website construction began with touch and coding the followi
 ## Initial Creation and Bugs
 
 Once all files and directories were created, I began by following the example code provide in the doc **SET UP:HTML and CSS** to create the example home web page. I styled it using my css file to have a side bar with the buttons and the logo which would be permantly affixed in the postion no mater how far I scrolled down the page. I then switch the table so it would pull from my Posts table to display data in into the cards. I then limited it to only 4 cards on screen at a time with scroll functionality to reach lower pages. I also made it so post would have either equations and study group images.
+
 ![Equation](Equations.png "Icon")
-![File 1](File 1.jpg "Icon")
+![File 1](File1.jpg "Icon")
 Issues caused by this is that the cards would frequently overlap, causing the information on post to be blocked as well as the button the open it. 
 ![card overlap](card_overlap.png "Card overlap")
 This
