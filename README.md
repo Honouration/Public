@@ -141,7 +141,7 @@ Using Html and Css, website construction began with touch and coding the followi
 
 ## Initial Creation and Bugs
 
-Once all files and directories were created, I began by following the example code provide in the doc **SET UP:HTML and CSS** to create the example home web page. I styled it using my css file to have a side bar with the buttons and the logo which would be permantly affixed in the postion no mater how far I scrolled down the page. I then switch the table so it would pull from my Posts table to display data in into the cards. I then limited it to only 4 cards on screen at a time with scroll functionality to reach lower pages. I also made it so post would have either equations and study group images.
+Once all files and directories were created, I began by following the example code provide in the doc **SET UP:HTML and CSS** to create the example home web page. I styled it using my css file to have a side bar with the buttons and the logo which would be permantly affixed in the postion no mater how far I scrolled down the page. I then switch the table so it would pull from my Posts table to display data in into the cards. However only 4 cards on screen at a time. I also made it so post would have either equations or study group images. I also added a feature that when a users clicks on a post, it will bring them to a page of that specfic post. 
 
 ![Equation](Equations.png "Icon")
 ![File 1](File1.jpg "Icon")
@@ -149,4 +149,4 @@ Once all files and directories were created, I began by following the example co
 
 Issues caused by this is that the cards would frequently overlap, causing the information on post to be blocked as well as the button the open it. 
 ![card overlap](card_overlap.png "Card overlap")
-This
+This was resolved by clarifying the distance each card must maintain from one another in style.css. I also fixed the issue that sealed the home page to only 4 posts by correcting a mistake in the index.html pulling minimal data and added a scroll function to allow users to browse the post easily. After that I added a communities page where I added a description and title and allowed users to join communities and get recommended post made by users in that community. Issues arose when gathering the data from the database but were fix quickly by re arranging the database table to fit with the pre existing code and present data. 
