@@ -173,7 +173,7 @@ The Issue regarind my post pages is that the links don't have descriptive links 
 
 ![File 1](Lighthouse1.png "Icon")
 
-Theres were a few bugs regarding communities and the sigh up doesn't work.
+Theres were a few bugs regarding communities and the sign up doesn't work.
 ## Instructions regarding the website
 
 1. Open VSCode
