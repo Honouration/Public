@@ -181,4 +181,4 @@ Theres were a few bugs regarding communities and the sigh up doesn't work.
 3. Run python main.py in terminal
 
 List of users for sign in.
-![File 1](User_Info.png"Icon")
+![File 1](User_Info.png "Icon")
