@@ -167,11 +167,11 @@ In addition to backend issues, there were several layout and styling problems. P
 
 My light house report for my post and login in pages: 
 
-![File 1](Lighthouse_2.png "Icon")
+![File 1](Lighthouse2.png "Icon")
 
 The Issue regarind my post pages is that the links don't have descriptive links that help the search engine understand them better.
 
-![File 1](Lighthouse_1.png "Icon")
+![File 1](Lighthouse1.png "Icon")
 
 Theres were a few bugs regarding communities and the sigh up doesn't work.
 ## Instructions regarding the website
