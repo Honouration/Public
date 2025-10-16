@@ -1,0 +1,30 @@
+{% extends 'layout.html' %} {% block title %}Login - Liveli{% endblock %} {%
+block content %}
+<div class="login-card">
+  <h2>Login</h2>
+  <form method="POST">
+    <label for="username">Username:</label>
+    <input type="text" name="username" id="username" required />
+
+    <label for="password">Password:</label>
+    <input type="password" name="password" id="password" required />
+
+    <button type="submit" class="btn" style="margin-top: 20px">Login</button>
+  </form>
+
+  {% if session.get('username') %}
+  <div class="card-nav" style="margin-top: 20px">
+    <a href="{{ url_for('index') }}" class="btn">Home</a>
+    <a href="{{ url_for('communities') }}" class="btn">Communities</a>
+    <a href="{{ url_for('logout') }}" class="btn">🚪Logout</a>
+  </div>
+  {% endif %} {% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+  <ul class="messages">
+    {% for category, message in messages %}
+    <li class="{{ category }}">{{ message }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %} {% endwith %}
+</div>
+{% endblock %}
