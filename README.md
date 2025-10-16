@@ -153,8 +153,31 @@ This was resolved by clarifying the distance each card must maintain from one an
 
 After establishing the home and communities pages, I implemented the login and friends system to allow personalized user interactions. This involved creating user accounts in the database, handling login sessions, and allowing users to add friends to their lists. During testing, several issues were discovered. Initially, when a user logged in, the session data was not properly retained across pages. This caused the sidebar to always display the login button even when a user was signed in. The issue was caused by inconsistent session variable names or templates checking for variables that did not exist. To fix this, I standardized the session variables and ensured that all templates correctly checked for a user being logged in. The sidebar now correctly displays logout and friends options when a user is signed in.
 
+![File 1](Proto_Communities "Icon")
+
 Another issue occurred on the friends page, which occasionally threw a template error related to an unexpected end of the template. This was caused by missing endblock tags in the friends template, which prevented the page from rendering correctly. I reviewed all templates and added the necessary closing tags for all blocks, which resolved the rendering errors and allowed the friends list to display properly. There was also a problem with adding friends, as users could add the same friend multiple times, creating duplicate entries in the database. This was fixed by adding a check to verify whether a friendship already existed before inserting a new record. If the friend was already in the user’s list, a warning message is displayed instead.
 
 When interacting with posts and communities, clicking on an item sometimes resulted in an error where the URL could not be built. This occurred because the templates were referencing incorrect attribute names instead of the actual database column names. By updating the templates to use the correct column names, the correct URLs were generated, and the error was resolved. There were also issues with database queries returning no results or causing errors due to mismatched column names. To fix this, I updated the database tables to match the application code, ensuring that all queries could retrieve and display the correct data.
 
+![File 1](Liveli_proto "Icon")
+
 In addition to backend issues, there were several layout and styling problems. Post cards occasionally overlapped when they contained images or equations, which blocked the content and buttons. The communities page sometimes displayed misaligned cards due to varying description lengths. These problems were addressed by adjusting the CSS to standardize card heights, margins, and scroll behavior. I also implemented a scrollable container for posts and communities so that the layout remained consistent regardless of the number of items. These adjustments ensured that the application was visually consistent and user interactions were reliable across all pages.
+
+## Lighthouse Report
+
+My light house report for my post and login in pages: 
+
+![File 1](Lighthouse_2 "Icon")
+
+The Issue regarind my post pages is that the links don't have descriptive links that help the search engine understand them better.
+
+![File 1](Lighthouse_1 "Icon")
+
+Theres were a few bugs regarding communities and the sigh up doesn't work.
+## Instructions regarding the website
+
+1. Open VSCode
+2. Load the folder {Flask_PWA_Programming_For_The_Web_Task_Template}
+3. Run python main.py in terminal
+
+List of users for sign in.
